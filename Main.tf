@@ -1,4 +1,4 @@
-terraformterraform {
+terraform {
     required_providers { //this is plugin
       aws = {
           source = "hashicorp/aws" //location where plugin is located
